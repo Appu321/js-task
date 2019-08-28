@@ -1,6 +1,6 @@
 function birthdayCakeCandles(arr) {
-	let maximum = 0;
-	let i = 0;
+	var maximum = 0;
+	var i = 0;
 	arr.forEach(item => {
 		if (item > maximum) {
 			max = item;
